@@ -1,4 +1,4 @@
-# AntimatterPropulsionExplorer
+# Antimatter Propulsion Explorer
 
 ## Overview
 AntimatterPropulsionExplorer is a cutting-edge scientific simulation project developed for the SEP101 course, focusing on the feasibility of antimatter-driven spacecraft. This project delves into the theoretical underpinnings of using antimatter as propulsion fuel, exploring the dynamics of cargo vessels, starships, and warbirds in space travel.
@@ -40,3 +40,6 @@ This project is the brainchild of a group of ambitious software engineering stud
 Feel free to reach out for collaboration or queries at iparmar1@myseneca.ca   .
 
 Thank you for exploring the AntimatterPropulsionExplorer. This project represents our commitment to pushing the boundaries of space travel and propulsion technology.
+## Assignment link 
+https://github-pages.senecapolytechnic.ca/sep101/#
+
