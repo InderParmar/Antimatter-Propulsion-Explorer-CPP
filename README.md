@@ -16,7 +16,7 @@ AntimatterPropulsionExplorer is a cutting-edge scientific simulation project dev
 ## Getting Started
 To run the AntimatterPropulsionExplorer simulation, clone the repository and compile the source files using a C++ compiler.
 
-```bash
+
 git clone https://github.com/InderParmar/Antimatter-Propulsion-Explorer-CPP.git
 cd Antimatter-Propulsion-Explorer
 g++ -o simulation Main.cpp CargoShip.cpp Starship.cpp Warbird.cpp Systems.cpp
