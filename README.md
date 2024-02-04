@@ -17,7 +17,25 @@ AntimatterPropulsionExplorer is a cutting-edge scientific simulation project dev
 To run the AntimatterPropulsionExplorer simulation, clone the repository and compile the source files using a C++ compiler.
 
 ```bash
-git clone https://github.com/yourusername/AntimatterPropulsionExplorer.git
-cd AntimatterPropulsionExplorer
+git clone https://github.com/InderParmar/Antimatter-Propulsion-Explorer-CPP.git
+cd Antimatter-Propulsion-Explorer
 g++ -o simulation Main.cpp CargoShip.cpp Starship.cpp Warbird.cpp Systems.cpp
 ./simulation
+
+## Contribution
+
+Contributions to enhance the simulation's accuracy or to extend its capabilities are welcome. Please fork the repository and submit your pull requests for review.
+
+## License
+
+This project is open-source under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+
+## Developers
+
+This project is the brainchild of a group of ambitious software engineering students, aiming to bridge the gap between theoretical physics and practical spacecraft engineering.
+
+## Contact
+
+Feel free to reach out for collaboration or queries at iparmar1@myseneca.ca   .
+
+Thank you for exploring the AntimatterPropulsionExplorer. This project represents our commitment to pushing the boundaries of space travel and propulsion technology.
