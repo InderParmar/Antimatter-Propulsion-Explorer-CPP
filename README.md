@@ -18,10 +18,12 @@ To run the AntimatterPropulsionExplorer simulation, clone the repository and com
 
 
 git clone https://github.com/InderParmar/Antimatter-Propulsion-Explorer-CPP.git
+'''
+
 cd Antimatter-Propulsion-Explorer
 g++ -o simulation Main.cpp CargoShip.cpp Starship.cpp Warbird.cpp Systems.cpp
 ./simulation
-
+'''
 ## Contribution
 
 Contributions to enhance the simulation's accuracy or to extend its capabilities are welcome. Please fork the repository and submit your pull requests for review.
